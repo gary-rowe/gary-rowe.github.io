@@ -29,7 +29,7 @@ common-ext-js:
         </div>
       {% endif %}
 
-      {{ content }}
+      {{ content | replace: '<a href="http', '<a rel="nofollow noopener noreferrer" target="_blank" href="http' }}
 
       {% if page.after-content %}
         <div class="after-content">

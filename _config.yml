@@ -153,7 +153,7 @@ plugins:
   - jekyll-redirect-from
   - jekyll-remote-theme
   - jekyll-sitemap
-  - jekyll-target-blank
+#  - jekyll-target-blank Not compatible with GitHub Pages yet
 
 # Use a remote theme
 remote_theme: daattali/beautiful-jekyll@5.0.0
