@@ -9,7 +9,7 @@ author: Gary Rowe
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Articles: "http://localhost:4000/tags/"
+  Articles: "/tags/"
   About Me: "aboutme"
   Projects:
     - Attestant: "https://www.attestant.io/"
@@ -24,11 +24,6 @@ avatar: "https://www.gravatar.com/avatar/232628cea0e6482f1afb285a92ebe6f7"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
-
-# If you want to have an image logo in the top-left corner instead of having the title of the website,
-# then specify the following parameter
-#title-img: /path/to/image
-
 
 # --- Footer social media links --- #
 
@@ -83,13 +78,6 @@ hover-col: "#0085A1"
 footer-col: "#EAEAEA"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
-
-# Alternatively, the navbar, footer, and page background can be set to an image
-# instead of colour
-
-#navbar-img: "/assets/img/bgimage.png"
-#footer-img: "/assets/img/bgimage.png"
-#page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 #mobile-theme-col: "#0085A1"
