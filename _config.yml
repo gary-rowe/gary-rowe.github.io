@@ -98,7 +98,7 @@ google_analytics: "24655452"
 # --- Comments --- #
 
 # To use Disqus comments, sign up to https://disqus.com and fill in your Disqus shortname (NOT the userid)
-disqus: "agilestack"
+#disqus: "agilestack"
 
 # --- Misc --- #
 
