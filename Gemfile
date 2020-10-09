@@ -4,3 +4,8 @@ source "https://rubygems.org"
 
 gemspec
 
+# When adding a new gem remember to use `bundle install` and update _config.yml
+gem 'jekyll-remote-theme'
+gem 'jekyll-redirect-from'
+gem 'jekyll-target-blank'
+gem 'pygments.rb'
