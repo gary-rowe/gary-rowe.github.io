@@ -2,6 +2,7 @@
 author: Gary Rowe
 title: Dropwizard with Ember Data demo
 layout: post
+comments: true
 tags:
   - HowTo
   - Dropwizard
