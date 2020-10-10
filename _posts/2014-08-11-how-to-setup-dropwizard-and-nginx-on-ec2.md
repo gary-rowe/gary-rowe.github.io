@@ -5,7 +5,7 @@ layout: post
 tags:
   - HowTo 
   - Dropwizard
-redirect_from: 
+redirect_from: /agilestack/2014/08/11/how-to-setup-dropwizard-and-nginx-on-ec2/
 ---
 It's been a while since I've added any articles to this blog. This has been due to working flat out on [MultiBit HD - a Bitcoin startup project](https://multibit.org).
 
